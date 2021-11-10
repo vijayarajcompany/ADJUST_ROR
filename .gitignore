@@ -3331,3 +3331,8 @@ fabric.properties
 /tmp/cache/assets/sprockets/v4.0.0/zT/Ztl15FOH2ygMTIRVTJ4M1X96meCS8JMwoFCsy-INeDM.cache
 /tmp/cache/bootsnap/load-path-cache
 /tmp/pids/server.pid
+Gemfile.lock
+Gemfile
+
+.idea/Adjust_DRC_App.iml
+tmp/cache/webpacker/last-compilation-digest-development
